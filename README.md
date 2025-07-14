@@ -14,7 +14,7 @@
 ### 1. Clone the Repo & Setup Environemnt 
 ```bash
 
-git clone https://
+git clone https://github.com/dipti-biswas-ship-it/kpa-api-assignment.git
 cd kpa-api-assignment
 python -m venv env
 env\Scripts\activate
